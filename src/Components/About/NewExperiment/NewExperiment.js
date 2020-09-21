@@ -6,6 +6,7 @@ const newExperiment = () => {
       <h3>I am doing a succesful experiment</h3>
       <p>This is a new experiment</p>
       <p>Doing a modification to the NewExperiment file</p>
+      <p>More text</p>
     </div>
   )
 };
