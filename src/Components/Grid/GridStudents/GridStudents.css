@@ -1,0 +1,114 @@
+/* .student-image-wrapper {
+  width:300px;
+  object-fit: cover;
+} */
+
+.student-image-wrapper img {
+  height: 300px;
+  /* width:100%; */
+  width:300px;
+
+}
+
+/*  This is just to learn how to work */
+
+.div-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.red {
+  width:25%;
+  height: 300px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  
+}
+
+.red-image {
+  width: 100%;
+  height: 100%;
+}
+
+.blue {
+  width: 25%;
+  height: 300px;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.blue-image {
+  width:100%;
+  height: 100%;
+}
+
+.yellow {
+  width: 25%;
+  height: 300px;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.yellow-image {
+  width: 100%;
+  height:100%;
+
+}
+
+.black {
+  width: 25%;
+  height: 300px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.black-image {
+  width: 100%;
+  height:100%;
+
+}
+
+.brown {
+  width: 300px;
+  height: 300px;
+  background-color: brown;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.purple {
+  width: 300px;
+  height: 300px;
+  background-color: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.green {
+  width: 300px;
+  height: 300px;
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+
+

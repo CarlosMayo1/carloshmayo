@@ -1,0 +1,64 @@
+.informationCard {
+  border: 1px solid #D6D6D6;
+  margin: auto;
+  /* padding: 5px 15px 5px 15px; */
+  box-shadow: 0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08);
+  border-radius: 5px;
+  width: 295px;
+}
+
+.heading {
+  padding:3px 1px 3px;
+  /* background-color: #006FBF; */
+  background-color: #17A2B8;
+  text-align: center;
+}
+
+.heading h2 {
+  color: #fff;
+  font-size: 26px;
+  font-weight: 600;
+}
+
+.cardContent ul {
+  list-style: none;
+  padding-bottom: 25px;
+  padding: 0;
+  margin: 16px 29px 84px 29px;
+}
+
+.cardContent ul li {
+  font-size: 14px;
+  font-weight: 300;
+  padding: 4px 10px;
+  position: relative;
+}
+
+.cardContent ul li span {
+  color: #d05b00;
+  font-weight: 500;
+}
+
+.cardFooter {
+
+  text-align: center;
+  margin-bottom: 15px;
+  
+}
+
+.cardButton {
+  color: #fff;
+  background: #006FBF;
+  border-color:#005cbf; 
+  padding: 8px 32px;
+  font-size:24px;
+}
+
+/* .cardButton {
+  box-shadow: 0 3px 0 #815627, 0 6px 4px -2px rgba(0,0,0,0.3);
+  color: #000;
+  background: #ffcb08;
+  border-color:#000;
+  padding: 8px 32px;
+  font-size:24px;
+} */

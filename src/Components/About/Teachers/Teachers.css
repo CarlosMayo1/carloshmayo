@@ -1,0 +1,17 @@
+.main-title {
+  text-align: center;
+  padding: 15px;
+}
+
+.teacher-image {
+  width: 530px;
+  height:500px;
+}
+
+.teacher-info p {
+  text-align: justify;
+}
+
+.teacher-row-wrapper {
+  margin-bottom: 20px;
+}
