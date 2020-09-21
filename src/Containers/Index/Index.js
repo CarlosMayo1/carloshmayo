@@ -10,7 +10,7 @@ class Index extends Component {
     return(
      <div>
       <Navbar/>
-      <Route path="/" exact component={Content}/>
+      <Route path="/carloshmayo/" exact component={Content}/>
       <Route path="/about" exact component={About}/>
       <Route path="/contact" render={() => <h1>This is the way you can contact me</h1>}/>
      </div>
