@@ -7,6 +7,9 @@ import GridStudents from '../Grid/GridStudents/GridStudents';
 // I should remember delete it after confirm that I know what I am doing
 import Experiment from './Experiment/Experiment';
 
+// This is another expriment
+import NewExperiment from './NewExperiment/NewExperiment';
+
 const about = () => {
   return(
     <div className="container">
@@ -14,6 +17,7 @@ const about = () => {
       <section>
         <GridStudents/>
         <Experiment/>
+        <NewExperiment/>
       </section>
     </div>
   )
