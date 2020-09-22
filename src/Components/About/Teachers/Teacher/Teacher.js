@@ -5,7 +5,7 @@ const teacher = (props) => {
     <div className="row teacher-row-wrapper">
       <div className="col">
         <div className="teacher-image-wrap">
-          <img className="teacher-image" src={props.img} alt="image about myself"></img>
+          <img className="teacher-image" src={props.img} alt={props.alt}></img>
         </div>
       </div>
       <div className="col">

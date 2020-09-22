@@ -6,18 +6,22 @@ import teachersInfo from './TeachersInfo';
 
 
 const teachers = () => {
+  let teachers = [];
+  teachersInfo.forEach(element => {
+    teachers.push(
+      <Teacher
+        key={element.id} 
+        name={element.name}
+        img={element.img}
+        information={element.information}
+        alt={element.alt}/>
+    );
+  });
+
   return (
     <div>
       <h2 className="main-title">¿Quiénes somos?</h2>
-      <Teacher 
-        name={teachersInfo[0].name}
-        img={teachersInfo[0].img}
-        information={teachersInfo[0].information}/>
-      <hr></hr>
-      <Teacher 
-        name={teachersInfo[1].name}
-        img={teachersInfo[1].img}
-        information={teachersInfo[1].information}/>
+      {teachers}
     </div>
   )
 };
