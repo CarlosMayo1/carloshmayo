@@ -11,8 +11,8 @@ class Index extends Component {
      <div>
       <Navbar/>
       <Route path="/carloshmayo/" exact component={Content}/>
-      <Route path="/about" exact component={About}/>
-      <Route path="/contact" render={() => <h1>This is the way you can contact me</h1>}/>
+      <Route path="/carloshmayo/about" exact component={About}/>
+      <Route path="/carloshmayo/contact" render={() => <h1>This is the way you can contact me</h1>}/>
      </div>
    
     );
