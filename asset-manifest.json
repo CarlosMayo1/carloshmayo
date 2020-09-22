@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/carloshmayo/static/css/main.f688a91d.chunk.css",
-    "main.js": "/carloshmayo/static/js/main.e0f1ac63.chunk.js",
-    "main.js.map": "/carloshmayo/static/js/main.e0f1ac63.chunk.js.map",
+    "main.js": "/carloshmayo/static/js/main.3b671177.chunk.js",
+    "main.js.map": "/carloshmayo/static/js/main.3b671177.chunk.js.map",
     "runtime-main.js": "/carloshmayo/static/js/runtime-main.eb2ba35d.js",
     "runtime-main.js.map": "/carloshmayo/static/js/runtime-main.eb2ba35d.js.map",
     "static/css/2.11829350.chunk.css": "/carloshmayo/static/css/2.11829350.chunk.css",
     "static/js/2.d98c931f.chunk.js": "/carloshmayo/static/js/2.d98c931f.chunk.js",
     "static/js/2.d98c931f.chunk.js.map": "/carloshmayo/static/js/2.d98c931f.chunk.js.map",
     "index.html": "/carloshmayo/index.html",
-    "precache-manifest.5043ada6f9e350990f0783e33ad1f587.js": "/carloshmayo/precache-manifest.5043ada6f9e350990f0783e33ad1f587.js",
+    "precache-manifest.00014eb5242f913fa9f8ddcaad986010.js": "/carloshmayo/precache-manifest.00014eb5242f913fa9f8ddcaad986010.js",
     "service-worker.js": "/carloshmayo/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/carloshmayo/static/css/2.11829350.chunk.css.map",
     "static/css/main.f688a91d.chunk.css.map": "/carloshmayo/static/css/main.f688a91d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.d98c931f.chunk.js",
     "static/css/main.f688a91d.chunk.css",
-    "static/js/main.e0f1ac63.chunk.js"
+    "static/js/main.3b671177.chunk.js"
   ]
 }
