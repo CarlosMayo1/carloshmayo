@@ -2,7 +2,7 @@ import React from 'react';
 
 const teacher = (props) => {
   return(
-    <div className="row teacher-row-wrapper">
+    <div className="row teacher-row-wrapper" key={props.id}>
       <div className="col">
         <div className="teacher-image-wrap">
           <img className="teacher-image" src={props.img} alt={props.alt}></img>

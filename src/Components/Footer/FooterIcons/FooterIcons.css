@@ -1,0 +1,18 @@
+.footer-content-icons {
+  display: flex;
+  margin-right: 50px;
+  justify-content: flex-end;
+  align-items: center;
+
+}
+
+.media-icon {
+  margin-left: 10px;
+  text-decoration: none;
+  color:#fff;
+}
+
+.media-icon:hover {
+  color: #dee2e6;
+}
+

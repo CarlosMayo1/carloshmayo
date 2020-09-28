@@ -7,12 +7,15 @@ import studentsInfo from '../Student/StudentsInfo';
 const gridStudents = () => {
  
   let student = [];
-
-  const students = studentsInfo.forEach(el => {
+  studentsInfo.forEach(element => {
     student.push(
-      <Student img={el.img} alt={el.alt}/>
+      <Student
+        key={element.id}
+        img={element.img}
+        alt={element.alt}/>
     )
   });
+  
   return(
     <div className="div-wrapper">
       {student}
