@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/carloshmayo/static/css/main.29cfb75e.chunk.css",
-    "main.js": "/carloshmayo/static/js/main.5244469a.chunk.js",
-    "main.js.map": "/carloshmayo/static/js/main.5244469a.chunk.js.map",
+    "main.css": "/carloshmayo/static/css/main.1c2922e1.chunk.css",
+    "main.js": "/carloshmayo/static/js/main.a82b49d2.chunk.js",
+    "main.js.map": "/carloshmayo/static/js/main.a82b49d2.chunk.js.map",
     "runtime-main.js": "/carloshmayo/static/js/runtime-main.eb2ba35d.js",
     "runtime-main.js.map": "/carloshmayo/static/js/runtime-main.eb2ba35d.js.map",
-    "static/css/2.11829350.chunk.css": "/carloshmayo/static/css/2.11829350.chunk.css",
-    "static/js/2.03264081.chunk.js": "/carloshmayo/static/js/2.03264081.chunk.js",
-    "static/js/2.03264081.chunk.js.map": "/carloshmayo/static/js/2.03264081.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/carloshmayo/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.13181d27.chunk.js": "/carloshmayo/static/js/2.13181d27.chunk.js",
+    "static/js/2.13181d27.chunk.js.map": "/carloshmayo/static/js/2.13181d27.chunk.js.map",
     "index.html": "/carloshmayo/index.html",
-    "precache-manifest.b9b52ab02ca94a41391e071398254481.js": "/carloshmayo/precache-manifest.b9b52ab02ca94a41391e071398254481.js",
+    "precache-manifest.a2bb550c5c1bb4947c707822a9d7e00a.js": "/carloshmayo/precache-manifest.a2bb550c5c1bb4947c707822a9d7e00a.js",
     "service-worker.js": "/carloshmayo/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/carloshmayo/static/css/2.11829350.chunk.css.map",
-    "static/css/main.29cfb75e.chunk.css.map": "/carloshmayo/static/css/main.29cfb75e.chunk.css.map",
-    "static/js/2.03264081.chunk.js.LICENSE.txt": "/carloshmayo/static/js/2.03264081.chunk.js.LICENSE.txt"
+    "static/css/2.d9ad5f5c.chunk.css.map": "/carloshmayo/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.1c2922e1.chunk.css.map": "/carloshmayo/static/css/main.1c2922e1.chunk.css.map",
+    "static/js/2.13181d27.chunk.js.LICENSE.txt": "/carloshmayo/static/js/2.13181d27.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eb2ba35d.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.03264081.chunk.js",
-    "static/css/main.29cfb75e.chunk.css",
-    "static/js/main.5244469a.chunk.js"
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.13181d27.chunk.js",
+    "static/css/main.1c2922e1.chunk.css",
+    "static/js/main.a82b49d2.chunk.js"
   ]
 }
